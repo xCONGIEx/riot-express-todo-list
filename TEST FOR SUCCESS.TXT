@@ -1,0 +1,1 @@
+If travis auto-builds after this that means it worked.
